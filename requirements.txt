@@ -1,0 +1,8 @@
+pandas>=1.5.0
+openpyxl>=3.1.0
+xlsxwriter>=3.0.0
+plotly>=5.0.0
+streamlit>=1.28.0
+pantab>=5.0.0
+tableauserverclient>=0.25.0
+python-docx>=0.8.11
